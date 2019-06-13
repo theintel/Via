@@ -200,44 +200,44 @@
     <string name="crash_upload">সমস্যার তথ্য পাঠান</string>
     <string name="upload_completed">আপলোড সম্পন্ন হয়েছে।</string>
     <string name="ui_mode">Operation Bar UI Mode</string>
-    <string name="ui_auto">Auto</string>
-    <string name="open_or_search">Open/Search</string>
-    <string name="settings_addons">Add-ons</string>
-    <string name="addon_download">Download Manager</string>
-    <string name="addon_qr_code_scan">QR Code Scanner</string>
-    <string name="install_addon">Go to download and install add-ons? The add-ons will work after being installed.</string>
-    <string name="quick_back">Go Back without Reloading</string>
-    <string name="open_with">Open with&#8230;</string>
-    <string name="download_completed">Download completed</string>
-    <string name="toast_fullscreen_off">Exit Full-screen Mode</string>
+    <string name="ui_auto">স্বয়ংক্রিয়</string>
+    <string name="open_or_search">খুলুন/খুঁজুন</string>
+    <string name="settings_addons">অ্যাড-অনসমূহ</string>
+    <string name="addon_download">ডাউনলোড ব্যবস্থাপনা</string>
+    <string name="addon_qr_code_scan">QR কোড স্ক্যানার</string>
+    <string name="install_addon">অ্যাড-অনটি ইন্সটলের পর কাজ করবে। ডাউনলোডে গিয়ে অ্যাড-অনটি ইন্সটল করবেন?</string>
+    <string name="quick_back">পুনরায় লোড না করে আগের পেজে যান</string>
+    <string name="open_with">এটি দিয়ে খুলুন&#8230;</string>
+    <string name="download_completed">ডাউনলোড সম্পন্ন হয়েছে</string>
+    <string name="toast_fullscreen_off">সম্পূর্ণ-পর্দা মোড থেকে প্রস্থান</string>
 
-    <string name="clear_data">Clear Data</string>
-    <string name="data_cache">Cache</string>
-    <string name="data_form_data">Form data</string>
-    <string name="data_history">History</string>
-    <string name="data_storage">Web storage</string>
-    <string name="data_cookies">Cookies</string>
-    <string name="data_cleared">Data cleared</string>
+    <string name="clear_data">তথ্য মুছুন</string>
+    <string name="data_cache">ক্যাশ</string>
+    <string name="data_form_data">ফরমের তথ্য</string>
+    <string name="data_history">ইতিহাস</string>
+    <string name="data_storage">ওয়েবে সংরক্ষিত তথ্য</string>
+    <string name="data_cookies">কুকিসমূহ</string>
+    <string name="data_cleared">তথ্য মুছে ফেলা হয়েছে</string>
 
-    <string name="cannot_undo">This cannot be undone</string>
+    <string name="cannot_undo">এটি কিন্তু আর এ অবস্থায় ফিরিয়ে আনা যাবে না</string>
 
-    <string name="sync_desc">An account will be created if it doesn\'t exist</string>
+    <string name="sync_desc">অ্যাকাউন্ট না থাকলে সেটি আগে তৈরি করতে  হবে</string>
 
-    <string name="settings_skin">Customization</string>
-    <string name="default_set">Default</string>
-    <string name="custom_css">Custom CSS</string>
-    <string name="num_of_bookmarks_in_home">The number of bookmarks in homepage</string>
-    <string name="picture">Picture</string>
-    <string name="text">Text</string>
-    <string name="html_code">Html Code</string>
+    <string name="settings_skin">স্বনির্ধারণ</string>
+    <string name="default_set">পূর্বনির্ধারিত</string>
+    <string name="custom_css">পরিবর্তিত CSS কোড</string>
+    <string name="num_of_bookmarks_in_home">নীড়পাতায় বুকমার্কের সংখ্যা</string>
+    <string name="picture">চিত্র</string>
+    <string name="text">লিপি</string>
+    <string name="html_code">HTML কোড</string>
 
-    <string name="action_view_image">View Image</string>
+    <string name="action_view_image">চিত্র দেখুন</string>
 
-    <string name="skin_colorful">Colorful</string>
-    <string name="skin_fruity">Fruity</string>
-    <string name="skin_transparent">Transparent</string>
+    <string name="skin_colorful">রঙিন</string>
+    <string name="skin_fruity">ফলসমৃদ্ধ</string>
+    <string name="skin_transparent">স্বচ্ছ</string>
 
-    <string name="block_popup">Block Pop-up</string>
+    <string name="block_popup">পর্দায় জেগে ওঠা বার্তা ব্লক করুন</string>
     <string name="open_window_hint">Website is trying to open a new window</string>
 
     <string name="action_save_web_page">Save Web Page</string>
